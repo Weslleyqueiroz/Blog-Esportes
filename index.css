@@ -1,0 +1,124 @@
+
+body {
+    color:black;
+    background-color: white;   
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.branco{
+    color: black
+}
+.menu a,
+.menu a:visited {
+    color: black;
+    text-decoration: none;
+    padding: 8px 15px;
+}
+
+.header{
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+    
+
+}
+
+
+.menu,
+.logo {
+    padding: 15px;
+}
+
+a:hover{
+        background-color: white;
+        color:blue
+
+}
+
+
+.container {
+    
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+.posts{
+   width: 660px; 
+   float: left;
+   background-color: white;
+
+}
+.barra-lateral {
+    width: 240px;
+    float: right;
+}
+
+.conteudo-lateral{
+    background-color: cornsilk;
+    padding: 10px;
+}
+
+.conteudo-lateral h3 {
+    background-color: cornsilk;
+    color:black;
+    padding: 5px;
+    
+}
+.Posts-Basquete{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    background-color: cornsilk;
+
+}
+.Posts-Basquete:last-child {
+    border: none;
+}
+
+.post{
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: bisque;
+}
+.data-post{
+    font-size: 0.9em;
+    margin-bottom: 15px;
+    display: block;
+}
+
+
+h4{
+    color: blue
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+
+.post p{
+    margin: 10px 0;
+    background-color: bisque;
+    
+}
+
+.footer{
+    clear: both;
+    background-color: blue;
+    padding: 15px;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+    

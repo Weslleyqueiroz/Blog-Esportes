@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+     color:black;
+    background-color: white;   
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(img/fundo-da-liga-de-torneios-de-futebol-com-efeito-de-salpicaduras_1017-50049.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.preto{
+    color: white;
+    
+
+}
+.header .titulo{
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+    background-image: url(img/fundo-da-liga-de-torneios-de-futebol-com-efeito-de-salpicaduras_1017-50049.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+    
+}
+.noticia1 p{
+    margin: 10px 0;
+
+}
+
+.container{
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px
+}
+.noticias{
+    width: 660px;
+    float: left;
+    
+}
+
+.noticia1{
+    background-color: bisque;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+}
+.post1{
+    font-size: 0.8em;
+    margin-bottom: 15px;
+    display: block;
+    text-align: center;
+    
+}
+
+.lateral{
+    width: 240px;
+    float: right;
+    background-color: cornsilk;
+    text-align: center;
+    
+}
+.lateral{
+    font-size: 0.9em;
+    padding: 5px;
+}
+
+.Destaque{
+    background-color: cornsilk;
+    font-size: 1.0em;
+    padding: 5px;
+    border-bottom: 1px solid black;;
+    
+
+}
+
+
+.lateral:last-child {
+    border: none;
+}
+
+.conteudo h3{
+    padding: 5px;
+    
+}
+
+.rodape{
+    clear: both;
+    background-color: blue;
+    padding: 15px;
+}
+
+.rodape p {
+    color: white;
+    text-align: center;
+}
